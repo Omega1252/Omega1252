@@ -42,7 +42,7 @@ Une seul but : explorer. Observer. Comprendre.
 > 🎯 But final : atteindre le terminal et découvrir ce qui se cache derrière l’écran.  
 > Si tu trouves le trophée... tu l’as mérité.
 > Bonne chance!
-> Si tu veux commencer, ça se passe là 👉 ![Omegaa.ch](omegaa.ch)
+> Si tu veux commencer, ça se passe là 👉 [Omegaa.ch](omegaa.ch)
 
 ---
 
