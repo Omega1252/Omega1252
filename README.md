@@ -58,9 +58,9 @@ Une seul but : explorer. Observer. Comprendre.
 ## 📫 Contact
 
 Tu peux me contacter via Whatsapp ou en email si tu veux discuter projet, dev ou idées 🔥
-WhatsApp : +41 77 504 23 00
-Email "Pro" (qui a 7 ans): Plasma.omega12@gmail.com
-Email étudiant: Eliot.bd@eduge.ch
+- WhatsApp : +41 77 504 23 00
+- Email "Pro" (qui a 7 ans): Plasma.omega12@gmail.com
+- Email étudiant: Eliot.bd@eduge.ch
 
 ---
 
