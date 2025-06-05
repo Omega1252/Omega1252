@@ -36,7 +36,7 @@ Des mécaniques multiples.
 Des easter eggs, des références, des secrets.  
 Une seul but : explorer. Observer. Comprendre.
 
-[ECHO-9](ECHO9.gif)
+![ECHO-9](ECHO-9.gif)
 
 > 🎯 But final : atteindre le terminal et découvrir ce qui se cache derrière l’écran.  
 > Si tu trouves le trophée... tu l’as mérité.
