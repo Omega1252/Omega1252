@@ -3,6 +3,7 @@
 Je m'appelle **Omega**, passionné d'informatique, de création numérique et d'expérimentations en tous genres.  
 Je transforme mes idées en expériences immersives, mystérieuses, parfois tricky, mais toujours stylées.
 
+![Main Gif](Main.gif)
 ---
 
 ## 🧠 À propos de moi
