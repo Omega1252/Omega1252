@@ -35,14 +35,14 @@ Des mécaniques multiples.
 Des easter eggs, des références, des secrets.  
 Une seul but : explorer. Observer. Comprendre.
 
-![Echo-9 Terminal](echo9-terminal.png)  
-![Echo-9 Lobby](echo9-lobby.png)  
-![Echo-9 404](echo9-404.png)
+![Echo-9 Terminal](ECHO-9_Terminal.png)  
+![Echo-9 Lobby](ECHO9-Lobby.png)  
+![Echo-9 404](ECHO9-404.png)
 
 > 🎯 But final : atteindre le terminal et découvrir ce qui se cache derrière l’écran.  
 > Si tu trouves le trophée... tu l’as mérité.
 > Bonne chance!
-> Si tu veux commencer, ça se passe là 👉 (omegaa.ch)
+> Si tu veux commencer, ça se passe là 👉 ![Omegaa.ch](omegaa.ch)
 
 ---
 
