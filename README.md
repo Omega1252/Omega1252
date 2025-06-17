@@ -63,4 +63,6 @@ Tu peux me contacter via Whatsapp ou en email si tu veux discuter projet, dev ou
 
 ---
 
+[![Achètes moi un café!](bmc-button.png)](https://www.buymeacoffee.com/Omega1252)
+
 End.
