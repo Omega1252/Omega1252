@@ -66,4 +66,4 @@ Tu peux me contacter via Whatsapp ou en email si tu veux discuter projet, dev ou
 [![Achètes moi un café!](bmc-button.png)](https://www.buymeacoffee.com/Omega1252)
 
 ## 🚀 Mes Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AnduanBerisha&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=Omega1252&show_icons=true&theme=tokyonight)
